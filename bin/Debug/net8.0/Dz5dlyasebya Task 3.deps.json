@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dz5dlyasebya Task 3/1.0.0": {
+        "runtime": {
+          "Dz5dlyasebya Task 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dz5dlyasebya Task 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
